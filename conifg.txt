@@ -1,4 +1,4 @@
 setup
 name
 text
-config
+
